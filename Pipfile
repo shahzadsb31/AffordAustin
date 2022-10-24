@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+psycopg2 = "*"
+pandas = "*"
+sodapy = "*"
+selenium = "*"
+chromedriver-py = "*"
+webdriver-manager = "*"
+validators = "*"
+sqlalchemy = "*"
+black = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.9"

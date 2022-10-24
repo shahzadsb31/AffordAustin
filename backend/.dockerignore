@@ -1,0 +1,7 @@
+.git
+.gitignore
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.global.yml
+!.elasticbeanstalk/config.yml # Note the change to this line

@@ -1,0 +1,27 @@
+/* Bar */
+.grid_fs_bar {
+    background-color: white;
+    width: 90%;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    outline-style:solid;
+    outline-color: lightgray;
+    outline-width: thin;
+}
+
+.grid_filters {
+    padding-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.grid_sorters {
+    padding-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.grid_ps_bar {
+    margin-left: 15px;
+    margin-right: 15px;
+}

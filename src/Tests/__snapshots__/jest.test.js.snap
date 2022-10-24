@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render components 1. render About page 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 4. Housing matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 5. ChildCare matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 6. Jobs matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 7. Navbar matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 11. Searching page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 12. ChildcareFilterBar matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 13. HousingFilterBar matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 14. JobFilterBar matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 15. ChildcareSortBar matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 16. HousingSortBar matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 17. JobSortBar matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 18. FSBar matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Render components 19. Pagination matches snapshot 1`] = `ShallowWrapper {}`;

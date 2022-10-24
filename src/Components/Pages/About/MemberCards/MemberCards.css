@@ -1,0 +1,43 @@
+.about_card {
+    min-width: 275px;
+    min-height: 275px;
+    width: 8em;
+  }
+  
+  .about_info {
+    min-width: max(9em, 300px);
+    max-width: 9em;
+  }
+  
+  .bio_text {
+    font-size: max(.6em, 18px);
+    height: 12em;
+    max-width: 30em;
+  }
+  
+  .card_names {
+    font-size: max(.8em, 28px) !important;
+  }
+  
+  .role {
+    font-size: max(.7em, 22px) !important;
+  }
+  
+  .stats {
+    border-right:2px solid gray;
+    font-size: max(.7em, 18px);
+    height: max(4.2em, 80px);
+    max-width: 300px;
+    margin: 0 !important;
+  }
+
+  .stat_text{
+    margin: 0 !important;
+    font-size: max(.7em, 18px);
+  }
+
+  .stat_num{
+    margin-top: .2em;
+    font-size: max(.95em, 19px);
+  }
+

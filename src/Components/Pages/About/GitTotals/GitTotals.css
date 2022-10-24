@@ -1,0 +1,7 @@
+.git_totals {
+  min-width: max(6em, 200px);
+  background-color: white;
+  color: black;
+  border-radius: 3rem;
+  max-width: 9em;
+}

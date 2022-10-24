@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.section_header {
+  color: black;
+  font-size: max(1em, 40px);
+  font-weight: bolder;
+  padding-top: 1em;
+  margin-bottom: .5em;
+}
+
+.temp_interesting {
+  color: black;
+  font-size: max(.9em, 30px);
+  margin-bottom: .5em;
+}
+
+.tools_apis {
+  width: 85%;
+  font-size: 28px;
+}
+
+.instance_data {
+  width: 85%;
+  font-size: 28px;
+}
+
+.about_text {
+  font-size: max(.7em, 24px);
+  width: 95%;
+}
+
+
+
+.about_list {
+  margin-bottom: 10px;
+}
+
+.about_list:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px;
+}
+
+.tool_about_list {
+  margin-bottom: 10px;
+  min-width: 280px;
+  max-width: 300px;
+  height: 440px;
+  background-color: white;
+  
+}
+
+.tool_desc {
+  color: inherit !important;
+  text-decoration: none !important;
+
+}
+
+.tool_about_list:hover {
+  /* transform: scale(1.03); */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px;
+}
+
+.tool_logo {
+  height: 150px;
+  width: auto;
+}

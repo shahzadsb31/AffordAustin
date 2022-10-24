@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-affordaustin-dev-195705-authRole",
+      "UnauthRoleArn": "arn:aws:iam::736948331311:role/amplify-affordaustin-dev-195705-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::736948331311:role/amplify-affordaustin-dev-195705-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-affordaustin-dev-195705-deployment",
+      "UnauthRoleName": "amplify-affordaustin-dev-195705-unauthRole",
+      "StackName": "amplify-affordaustin-dev-195705",
+      "StackId": "arn:aws:cloudformation:us-east-2:736948331311:stack/amplify-affordaustin-dev-195705/e983cdb0-944b-11ec-872e-02b7f531d7f4",
+      "AmplifyAppId": "d4sk31j15mtaj"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-affordaustin-prod-201521-authRole",
+      "UnauthRoleArn": "arn:aws:iam::736948331311:role/amplify-affordaustin-prod-201521-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::736948331311:role/amplify-affordaustin-prod-201521-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-affordaustin-prod-201521-deployment",
+      "UnauthRoleName": "amplify-affordaustin-prod-201521-unauthRole",
+      "StackName": "amplify-affordaustin-prod-201521",
+      "StackId": "arn:aws:cloudformation:us-east-2:736948331311:stack/amplify-affordaustin-prod-201521/74c6fa80-944e-11ec-a306-06ec97beb6ea",
+      "AmplifyAppId": "d4sk31j15mtaj"
+    }
+  }
+}

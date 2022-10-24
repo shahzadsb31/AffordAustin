@@ -1,0 +1,117 @@
+.mainPage {
+  object-fit: cover;
+  display: flex;
+  background-size: cover;
+  background-color: black;
+  width: auto;
+  height: 100vh;
+  font-family: "Lucida Console", monospace;
+}
+
+.leftHalf {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.35)),
+    url('https://res.cloudinary.com/djlo2drow/image/upload/v1645997281/shutterstock_1069312334.0_bfhiio.jpg');
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+
+}
+
+.rightHalf {
+  background-color: black;
+  width: 60%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  
+}
+
+.titleLeft {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  margin: auto;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.housingCard {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.35)),
+    url("https://res.cloudinary.com/djlo2drow/image/upload/v1645845219/BackgroundImg_teoyu0.jpg");
+  background-size: cover;
+  color: #f8f8f8;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+
+.housingCard:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.childcareCard {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)),
+    url("https://res.cloudinary.com/djlo2drow/image/upload/v1646182552/teacher-and-pupils-using-wooden-shapes-in-montessori-school-picture-id684059604_ojprgm.jpg");
+  background-size: auto;
+  color: #f8f8f8;
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+.childcareCard:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.jobsCard {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)),
+    url("https://res.cloudinary.com/djlo2drow/image/upload/v1646182215/jobs_hero_thygda.jpg");
+  background-size: cover;
+  color: #f8f8f8;
+  
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  
+}
+
+.jobsCard:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.tagline {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+  margin: 20px auto;
+
+  font-size: larger;
+  
+}
+.model_name {
+  font-size: 3vh;
+}
+.model_text {
+  font-size: 1.5vh;
+  align-items: flex-end;
+}
+
+.cardBox {
+  background-color: rgb(61, 61, 61);
+}
+
+

@@ -1,0 +1,42 @@
+.inst_page {
+  text-align: left;
+  white-space: pre-wrap;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  min-height: 100vh;
+  width: 100%;
+  padding: 10px;
+}
+
+.inst_header h1 {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 2.8rem;
+  font-weight: 600;
+}
+
+.info_section {
+  margin-top: 20px;
+}
+
+.inst_img {
+  height: 100%;
+  width: auto;
+  margin: auto;
+}
+
+.inst_side_bar {
+  padding: 10px 25px;
+  outline: auto;
+  outline-color: lightgray;
+  height: fit-content;
+}
+
+.side_bar_info {
+  margin-bottom: 25px;
+}
+
+.side_bar_info p {
+  margin-bottom: 0;
+}
